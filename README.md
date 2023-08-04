@@ -1,3 +1,10 @@
+This is a simple Tenzie game made using React.js
+# to run it locally, 
+clone it, do npm i, then npm start
+
+# to upload it to netlify
+Run num run build, a build folder will be created, drag and drop that folder to netlify
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
